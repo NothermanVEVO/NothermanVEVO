@@ -22,7 +22,7 @@ Studying a Bachelor's degree in Computer Science, I love programming, drawing, r
 | **🌱 Once Human** | Made in Godot, 2D game, top down, with a theme about recycling, product life cycle and Green IT practices in a fun way! |
 | **🏜️ The Other Side Of West** | Made in Java, 2D game, top down, with a theme about old west, can you survive till the end? |
 | **☕ Frameja** | Developing a framework to simplify the development of 2D games in Java. |
-| **🐉 Learn Japanese Alphabets** | In a simple way, helps you to learn both, Hiragana and Katakana. |
+| **🐉 Learn Japanese Alphabets** | In a simple way, helps you to learn both, Hiragana and Katakana. Made in Java. |
 
 ---
 
