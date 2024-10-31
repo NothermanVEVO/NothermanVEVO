@@ -37,7 +37,7 @@ Studying a Bachelor's degree in Computer Science, I love programming, drawing, r
 
 ---
 
-### 🤝 Conect with me!
+### 🤝 Connect with me!
 Feel free to explore my repositories, I hope you find something that you like or that maybe is useful for you. My Discord is "thenoth". Check my social medias:
 
 <p align="center">
